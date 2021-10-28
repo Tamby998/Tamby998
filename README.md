@@ -14,7 +14,7 @@
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/14654342/tamby)
 <br> 
 
-###La chance c'est quand la préparation rencontre l'opportunité.😊✔Sénéque
+### La chance c'est quand la préparation rencontre l'opportunité.😊✔Sénéque
 <br>
 
 
