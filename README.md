@@ -1,5 +1,5 @@
 ### Hello World 👋 
- Je suis un  étudiant en informatique(M2) et dévéloppeur mi-temps chez Et Ceterum.
+ Je suis un  étudiant en informatique(M2) et dévéloppeur chez Et Ceterum.
 - 🔭 Travail sur plusieurs projets Personnels, OpenSource et Professionnel 
 - 🌱 Passionné par les nouvelles technologies
 <br>
