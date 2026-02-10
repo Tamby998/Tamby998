@@ -7,9 +7,6 @@ Travaillant sur plusieurs projets Personnels, OpenSource et Professionnels
 🎓 Master MBDS - Université Côte d'Azur
 
 📍 Antananarivo, Madagascar
-💼 Actuellement en Freelance @ HIDEV Madagascar
-
-Tech : Docker • Kubernetes • CI/CD • Prometheus • Grafana • Laravel
 
 ### Connectez-vous avec moi
 
