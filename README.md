@@ -3,7 +3,9 @@
 Travaillant sur plusieurs projets Personnels, OpenSource et Professionnels
 
 ✨ Passionné par les nouvelles technologies et l'automatisation
+
 🔧 J'aime créer des solutions qui facilitent le développement et le déploiement
+
 🎓 Master MBDS - Université Côte d'Azur
 
 📍 Antananarivo, Madagascar
