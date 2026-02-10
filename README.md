@@ -1,8 +1,15 @@
 ### Hello World 👋 
 
-- 🔭 Travail sur plusieurs projets Personnels, OpenSource et Professionnel 
-- 🌱 Passionné par les nouvelles technologies
-<br>
+Travaillant sur plusieurs projets Personnels, OpenSource et Professionnels
+
+✨ Passionné par les nouvelles technologies et l'automatisation
+🔧 J'aime créer des solutions qui facilitent le développement et le déploiement
+🎓 Master MBDS - Université Côte d'Azur
+
+📍 Antananarivo, Madagascar
+💼 Actuellement en Freelance @ HIDEV Madagascar
+
+Tech : Docker • Kubernetes • CI/CD • Prometheus • Grafana • Laravel
 
 ### Connectez-vous avec moi
 
